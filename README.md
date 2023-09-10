@@ -1,0 +1,1 @@
+# Python_Ler_Texto_Imagens
